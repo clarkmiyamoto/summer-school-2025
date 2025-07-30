@@ -4,6 +4,7 @@
 (Author: Sasha Rakhlin)
 
 Instructor: [Sasha Rakhlin](https://www.mit.edu/~rakhlin/)
+
 Slides: To Come
 
 ### Useful materials
@@ -14,12 +15,14 @@ Slides: To Come
 (Author: Margalit Glasgow)
 
 Instructor: [Margalit Glasgow](https://margalitglasgow.github.io)
+
 Notebook: To come
 
 ## 2. Physics-Guided Optimizations: Inform and Inspire AI Models with Physics Principles
 (Author: Gaia Grosso)
 
 Instructor: [Gaia Grosso](https://iaifi.org/current-fellows.html#gaia-grosso)
+
 Slides: To Come
 
 ### Useful materials
@@ -37,12 +40,14 @@ Slides: To Come
 (Author: Sean Benevedes and Jigyasa Nigam)
 
 Instructors: [Sean Benevedes](https://physics.mit.edu/faculty/sean-benevedes/) and [Jigyasa Nigam](https://curiosity54.github.io)
+
 Notebook: To come
 
 ## 3. Computing with Neural Manifolds: A Multi-Sclae Framework for Understanding Biological and Artificial Neural Networks
 (Author: SueYeon Chung)
 
 Instructor: [SueYeon Chung](https://as.nyu.edu/faculty/sueyeon-chung.html)
+
 Slides: To Come
 
 ### Useful materials
@@ -56,12 +61,14 @@ Slides: To Come
 (Author: Sam Bright-Thonney)
 
 Instructor: [Sam Bright-Thonney](https://www.sambrightthonney.com)
+
 Notebook: To come
 
 ## 4. Domain Shift Problem: Building Robust AI Models with Domain Adaptation
 (Author: Aleksandra Ciprajanovic)
 
 Instructor: [Aleksandra Ciprajanovic](https://aleksandraciprijanovic.wordpress.com/)
+
 Slides: To Come
   
 ### Useful materials
@@ -73,6 +80,7 @@ Slides: To Come
 (Author: Sneh Pandya)
 
 Instructor: [Sneh Pandya](https://snehjp2.github.io)
+
 Notebook: To come
   
     
