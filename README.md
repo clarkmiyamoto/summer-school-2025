@@ -86,7 +86,7 @@ Slides: To Come
 
 Instructor: [Sneh Pandya](https://snehjp2.github.io)
 
-Notebook: To come
+Notebook: [https://github.com/snehjp2/iaifi_2025_DA_tutorial](https://github.com/snehjp2/iaifi_2025_DA_tutorial)
   
     
 ## 5. Hackathon
