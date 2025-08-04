@@ -17,7 +17,7 @@ Slides: [Lecture Slides](https://www.dropbox.com/scl/fi/09bn055ym1mn8xdag2ot3/Le
 * [Foundations of Reinforcement Learning and Interactive Decision Making](https://arxiv.org/abs/2312.16730)
 
 ### Tutorial
-(Author: Margalit Glasgow)
+(Author: Margalit Glasgow, margalit.r.glasgow@gmail.com)
 
 Instructor: [Margalit Glasgow](https://margalitglasgow.github.io)
 
