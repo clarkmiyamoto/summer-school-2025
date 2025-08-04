@@ -1,5 +1,10 @@
 # [2025 IAIFI Summer School](https://iaifi.org/phd-summer-school.html)
 
+## Introduction
+Presented by Fabian Ruehle and Marisa LaFleur
+Recording: To Come
+Slides: [Introduction Slides](https://www.dropbox.com/scl/fi/kbjpk4vsunedwulezu2yb/2025_Summer-School_Introduction.pdf?rlkey=34cprm9ns3gqlhuk2saxrn3u8&dl=0)
+
 ## 1. Elements of Interactive Decision Making
 (Author: Sasha Rakhlin)
 
@@ -90,6 +95,7 @@ At the end of the Hackathon on Friday, August 8, we will have a block for presen
 ### Prompts
 * Apply the contextual bandit framework to assigning treatments in randomized medical trials. Use data from The Third International Stroke Trial: [https://datashare.ed.ac.uk/handle/10283/1931](https://datashare.ed.ac.uk/handle/10283/1931), which contains patient data (contexts), the assigned treatment, and patient outcomes. Experiment with different (non-linear!) online regression oracles. Note: because the counterfactual data is not available, to test your algorithm, you will need to build an offline model to assign any unavailable rewards to your contextual bandit algorithm.
 * Lipschitz Energy Flow Networks (L-EFNs, proposed in [https://arxiv.org/abs/2311.07652](https://arxiv.org/abs/2311.07652)) extend the intuition behind EFNs, providing a lever to manage the tradeoff between performance and robustness to mismodeling. Implement L-EFNs on the quark/gluon dataset from the tutorial, and find a way to characterize this tradeoff (or take this idea and run with it on a dataset of interest to you)!
+* You have thus far learned how to apply a variety of domain adaptation (DA) techniques for classification. In this hackathon, attempt to use DA for a regression problem for predicting the Einstein radius (theta_E) of strong lensing (SL) systems in using the simulated SL dataset found here. This task simulates a realistic domain shift: training a model on synthetic (noiseless) SL images in the source and applying it to noisy images that resembles image quality from modern cosmological surveys. This project will encompass all parts of the typical ML pipeline, from data access and dataset construction (see this notebook for help in constructing the dataset), to model construction, training, validation, testing, and analysis. Use the ‘source_final.zip’ as your source dataset and ‘target_final.zip’ as your target dataset. Your analysis should include typical regression metrics, as well as visualizations of the NN latent space to quantify the domain alignment.
 * More to come...
 * Work on your own project! 
 
