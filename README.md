@@ -46,7 +46,7 @@ Slides: To Come
 
 Instructors: [Sean Benevedes](https://physics.mit.edu/faculty/sean-benevedes/) and [Jigyasa Nigam](https://curiosity54.github.io)
 
-Notebook: To come
+Notebook: [https://github.com/curiosity54/iaifi-summer-school-25/tree/main](https://github.com/curiosity54/iaifi-summer-school-25/tree/main)
 
 ## 3. Computing with Neural Manifolds: A Multi-Sclae Framework for Understanding Biological and Artificial Neural Networks
 (Author: SueYeon Chung)
