@@ -10,7 +10,7 @@ Slides: [Introduction Slides](https://www.dropbox.com/scl/fi/kbjpk4vsunedwulezu2
 
 Instructor: [Sasha Rakhlin](https://www.mit.edu/~rakhlin/)
 
-Slides: To Come
+Slides: [Lecture Slides](https://www.dropbox.com/scl/fi/09bn055ym1mn8xdag2ot3/Lecture_Rakhlin_IAIFI_summer_school_2025.pdf?rlkey=wtj6qw0r41yiqkfqcx1v004cw&dl=0)
 
 ### Useful materials
 
