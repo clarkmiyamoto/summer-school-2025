@@ -16,7 +16,7 @@ Slides: To Come
 
 Instructor: [Margalit Glasgow](https://margalitglasgow.github.io)
 
-Notebook: To come
+Notebook: [https://drive.google.com/drive/folders/1eMn5tRMaO9JCbBKHheHIq-9M6g2yWSQN?usp=sharing](https://drive.google.com/drive/folders/1eMn5tRMaO9JCbBKHheHIq-9M6g2yWSQN?usp=sharing)
 
 ## 2. Physics-Guided Optimizations: Inform and Inspire AI Models with Physics Principles
 (Author: Gaia Grosso)
