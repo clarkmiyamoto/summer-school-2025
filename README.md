@@ -28,7 +28,7 @@ Notebook: [https://drive.google.com/drive/folders/1eMn5tRMaO9JCbBKHheHIq-9M6g2yW
 
 Instructor: [Gaia Grosso](https://iaifi.org/current-fellows.html#gaia-grosso)
 
-Slides: To Come
+Slides: [Lecture Slides](https://www.dropbox.com/scl/fi/29mzncwjmr56ylpeu1tb5/Lecture2_Grosso.pdf?rlkey=k6ktswfxc19ylihw96ew6xl5e&dl=0)
 
 ### Useful materials
 
