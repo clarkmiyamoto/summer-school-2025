@@ -67,7 +67,7 @@ Slides: To Come
 
 Instructor: [Sam Bright-Thonney](https://www.sambrightthonney.com)
 
-Notebook: To come
+Notebook: [https://github.com/SamBT/manifold-capacity-tutorial-iaifi25](https://github.com/SamBT/manifold-capacity-tutorial-iaifi25)
 
 ## 4. Domain Shift Problem: Building Robust AI Models with Domain Adaptation
 (Author: Aleksandra Ciprajanovic)
