@@ -92,6 +92,8 @@ Notebook: [https://github.com/snehjp2/iaifi_2025_DA_tutorial](https://github.com
 ## 5. Hackathon
 At the end of the Hackathon on Friday, August 8, we will have a block for presentations of work done on these topics. Forming groups is strongly encouraged!
 
+Enter your team here by noon on Friday, August 8: [https://forms.gle/2y3kfYFqGTF4eBwW8](https://forms.gle/2y3kfYFqGTF4eBwW8)
+
 ### Prompts
 * Apply the contextual bandit framework to assigning treatments in randomized medical trials. Use data from The Third International Stroke Trial: [https://datashare.ed.ac.uk/handle/10283/1931](https://datashare.ed.ac.uk/handle/10283/1931), which contains patient data (contexts), the assigned treatment, and patient outcomes. Experiment with different (non-linear!) online regression oracles. Note: because the counterfactual data is not available, to test your algorithm, you will need to build an offline model to assign any unavailable rewards to your contextual bandit algorithm.
 * Lipschitz Energy Flow Networks (L-EFNs, proposed in [https://arxiv.org/abs/2311.07652](https://arxiv.org/abs/2311.07652)) extend the intuition behind EFNs, providing a lever to manage the tradeoff between performance and robustness to mismodeling. Implement L-EFNs on the quark/gluon dataset from the tutorial, and find a way to characterize this tradeoff (or take this idea and run with it on a dataset of interest to you)!
