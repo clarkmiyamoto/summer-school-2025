@@ -74,7 +74,7 @@ Notebook: [https://github.com/SamBT/manifold-capacity-tutorial-iaifi25](https://
 
 Instructor: [Aleksandra Ciprajanovic](https://aleksandraciprijanovic.wordpress.com/)
 
-Slides: To Come
+Slides: [Lecture Slides](https://www.dropbox.com/scl/fi/bud0gviyxo0kyax6oagc7/Lecture4_Ciprijanovic.pdf?rlkey=2con4rtrqxx0ezrhp0ot4kbb0&dl=0)
   
 ### Useful materials
 
