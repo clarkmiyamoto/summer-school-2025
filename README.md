@@ -2,7 +2,6 @@
 
 ## Introduction
 Presented by Fabian Ruehle and Marisa LaFleur
-Recording: To Come
 Slides: [Introduction Slides](https://www.dropbox.com/scl/fi/kbjpk4vsunedwulezu2yb/2025_Summer-School_Introduction.pdf?rlkey=34cprm9ns3gqlhuk2saxrn3u8&dl=0)
 
 ## 1. Elements of Interactive Decision Making
@@ -108,6 +107,11 @@ Enter your team here by noon on Friday, August 8: [https://forms.gle/2y3kfYFqGTF
 * Best project (effort, presentation, use of summer school topics)
 * Best visualization
 * Best team effort
+  
+## 6. Closing
+
+Presented by Mike Williams
+Slides: [Closing Slides](https://www.dropbox.com/scl/fi/l5tzptlevh4fnpys8gct8/2025_Summer-School_Closing.pptx.pdf?rlkey=ctb1litn8xwovk4uwbse3t5qd&dl=0)
 
 ## NSF ACCESS Instructions
 
