@@ -52,7 +52,9 @@ Notebook: [https://github.com/curiosity54/iaifi-summer-school-25/tree/main](http
 
 Instructor: [SueYeon Chung](https://as.nyu.edu/faculty/sueyeon-chung.html)
 
-Slides: To Come
+Slides: 
+* [Lecture 1](https://www.dropbox.com/scl/fi/wk1nn6nosend2nfdstgpv/Talk_IAIFI_250806_lecture1_upload.pdf?rlkey=ayuiea3dm1cvnm203b7qwi22h&dl=0)
+* [Lecture 2](https://www.dropbox.com/scl/fi/clmzykn92e2kc8eqj9oeq/Talk_IAIFI_250806_lecture2_upload.pdf?rlkey=hjxe187awtpk7icc9x0ufcmdd&dl=0)
 
 ### Useful materials
 
